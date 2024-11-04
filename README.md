@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a versatile developer with experience in multiple technologies and frameworks. My expertise spans across web development, mobile app development, and game development. I have participated in several hackathons and programs, including those with NTBC, and I am currently working at a company.
+I am a versatile developer with experience in multiple technologies and frameworks. My expertise spans across web development, mobile app development, and game development. I have participated in several hackathons and programs, including those with NTBC.
 
 ## Skills
 
